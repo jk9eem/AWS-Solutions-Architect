@@ -1,0 +1,45 @@
+<This is the exam info for Solutions Architect>
+exam of questions in 4 domains
+
+26% Domain1: Cloud Concepts
+25% Domain2: Security and Compliance
+33% Domain3: Technology
+16% Domain4: Billing and Pricing
+
+passing grade is 700/1000
+
+65 questions - 50 scored questions, 15 unscored questions
+-> afford to get 15 questions wrong
+
+Duration of exam: 1.5 hours -> 1.5min/question
+
+----------------------- Cloud Practitioner------------
+<Cloud Service>
+4 most common types of cloud services for IaaS: Compute, Networking, Storage, Databases
+
+<Technology Overview>
+Cloud Service Provider(CSPs) that are Infrastructure as a Service(IaaS) will always have 4 core cloud service offerings:
+1. Compute - EC2 Virtual Machine
+2. Storage - EBS Virtual Hard Drives
+3. Database - RDS SQL Databases
+4. Networking - VPC Private Cloud Networking
+
+<The Evolution of Computing>
+1. Dedicated: A physical server wholly utilized by a single customer
+              Guaranteed of security, privacy, and full utility of underlying resources
+2. VMs: You can run multiple Virtual Machines on one Machine
+        Hypervisor is the software layer that lets you run the VMs
+3. Containers: Docker Deamon is the name of the software layer that lets you run multiple containers
+4. Funtions: Known as Serverless Compute
+
+<types of Cloud Computing>
+1. Saas: Software as a Service (FOR CUSTOMERS)
+         A product that is run and managed by the service provider
+         Don't worry about how the service is maintained. It just works and remains available
+2. PaaS: Platform  as a Service (FOR DEVELOPERS)
+         Focus on development and management of your apps
+         Don't worry about, provisioning, configuring or understanding the hardware or offerings
+3. IaaS: Infrastructure as a Service (FOR ADMINS)
+         The basic building blocks for cloud IT. Provides access to networking features, computers and data storage space
+         Don't worry about IT staff, data centers and hardware
+
