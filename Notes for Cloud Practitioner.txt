@@ -43,3 +43,14 @@ Cloud Service Provider(CSPs) that are Infrastructure as a Service(IaaS) will alw
          The basic building blocks for cloud IT. Provides access to networking features, computers and data storage space
          Don't worry about IT staff, data centers and hardware
 
+<Cloud Computing Deployment Models>
+1. Pulic Cloud: Everything(the workload or project) is built on the CSP -> known as 'Cloud Native or Cloud First'
+                * Companies that are starting out today, or are small enough to make the leap from a VPS to a CSP
+                ex) start ups, SaaS offerings, new projects and companies
+2. Private Cloud: Everything built on company's datacenters -> known as 'On-Premeise' -> Open Stack
+                  * Organization that cannot run on cloud due to strict regulatory compliance or the sheer size of their Organization
+                  ex) public sector-gov, super sensitive data-hospital, large enterprise with heavy regulation-insurance companies
+3. Hybrid: Using both On-Premise and Cloud Service Provider
+           * Organization that started with their own datacenter, can't fully move to cloud due to effort of migration or security compliance
+           ex) banks, fin tech, large professional service providers, lagacy on-premise
+4. Cross Cloud: Using 'Multiple Could Privders' ex)aws + azure
