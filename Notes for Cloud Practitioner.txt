@@ -81,3 +81,10 @@ type 'cloudwatch' on the top
 Check the dropdown menu of 'Alarm' on the left -> Billing -> Create Alarm -> Set Metric -> Total Estimate Charge -> USD
 -> traditional way is, Static->Greater->Amount of USD -> Next
 -> In Alarm -> Create new topic -> Set email
+
+<Turning on MFA> (Multi-Factor Authentication)
+Need to log in as a root user
+Click IAM -> Add MFA -> Activate MFA -> If you have a little physical key, choose U2F security key. If you don't have it, choose Virtual MFA Device(Phone->QR)
+-> Install compatible apps -> QR Code -> Type codes
+
+<Innovation Waves>
