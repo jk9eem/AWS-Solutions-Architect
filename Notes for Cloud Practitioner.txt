@@ -54,3 +54,30 @@ Cloud Service Provider(CSPs) that are Infrastructure as a Service(IaaS) will alw
            * Organization that started with their own datacenter, can't fully move to cloud due to effort of migration or security compliance
            ex) banks, fin tech, large professional service providers, lagacy on-premise
 4. Cross Cloud: Using 'Multiple Could Privders' ex)aws + azure
+
+<AWS Account>
+IAM -> Identify Account management
+
+<AWS Regions>
+Pick east region in Virginia
+
+<Metered Billing>
+Node type -> how they bill you. Pick the right bill type!
+             elastic cache is default so change the node type for billing
+             * There is only 1 time to get a free ticket to correct it if billing was way too much by incorrect node type
+
+<AWS Budgets>
+You can pick the budget period->monthly and how to budget->fixed
+Alert -> Threshold-> 80%
+Always set specific the alert method -> email, phone, text, and etc.
+So, you can use the service by the budget you set up
+
+<AWS Free Tier>
+I can set up the alert when the free tier usage is approaching expirement
+* My Billing Dashboard -> Billing preference -> Check on 'Receive Free Tier Usage Alerts' and 'Receive Billing Alerts'
+
+<Billing Alarm>
+type 'cloudwatch' on the top
+Check the dropdown menu of 'Alarm' on the left -> Billing -> Create Alarm -> Set Metric -> Total Estimate Charge -> USD
+-> traditional way is, Static->Greater->Amount of USD -> Next
+-> In Alarm -> Create new topic -> Set email
