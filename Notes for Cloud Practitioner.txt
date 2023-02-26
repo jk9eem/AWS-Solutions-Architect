@@ -96,3 +96,17 @@ A common pattern of a wave change of supply demand
 Burning platform is a term used WHEN A COMPANY ABANDONS OLD TECHNOLOGY FOR NEW TECHNOLOGY
 with the uncertainly of success and can be motivated by fear that
 the Organization future survival hinges on its DIGITAL TRANSFORMATION
+
+<Evolution of Computing Power>
+Computing Power: The thoughput measured at which a computer can complete a computational task
+General Computing -> Xeon CPU Processor // AWS Service Offerings -> Elastic Compute Cloud EC2
+GPU Computing -> 50x faster than traditional CPUs // AWS Service Offerings -> AWS Inferentier(Inf1)
+Quantum Computing -> Rigetti 16Q Aspen-4. 100 million times faster // AWS Service Offerings -> AWS Bracket
+
+AWS Service Offerings -> AWS Bracket
+
+<Amazon Bracket>
+For using quantum computing, type 'bracket' on the top -> Amazon Bracket -> Enable Amazon Bracket
+Then the screen shows all the available services that AWS Bracket offers
+* It's NOT FREE! (Some of them are free for 12 months)
+
