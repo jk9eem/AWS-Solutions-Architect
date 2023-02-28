@@ -110,3 +110,13 @@ For using quantum computing, type 'bracket' on the top -> Amazon Bracket -> Enab
 Then the screen shows all the available services that AWS Bracket offers
 * It's NOT FREE! (Some of them are free for 12 months)
 
+<The Benefits of Cloud>
+Agility: increase speed and agility
+Pay-as-you go pricing: Trade capital expense for variable expense
+Economy of scale: Benefit from masssive economies of scale
+Global Reach: Go global in minutes
+Security
+Reliablity: Stop spending money on running and maintaining data centers
+Elasticity
+
+*Cloud Architecture - Missing: Fault Tolerance, Disaster Recovery
