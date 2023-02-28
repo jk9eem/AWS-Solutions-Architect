@@ -120,3 +120,5 @@ Reliablity: Stop spending money on running and maintaining data centers
 Elasticity
 
 *Cloud Architecture - Missing: Fault Tolerance, Disaster Recovery
+
+<The Six Advantage of Cloud>
