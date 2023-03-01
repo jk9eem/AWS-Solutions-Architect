@@ -88,9 +88,11 @@ Click IAM -> Add MFA -> Activate MFA -> If you have a little physical key, choos
 -> Install compatible apps -> QR Code -> Type codes
 
 <Innovation Waves>
-Kondratiev waves are hypothesized cycle-like phenomena in the global world economy
+Kondratiev waves(Innovation waves) are hypothesized cycle-like phenomena in the global world economy
 The phenomenon is closely connected with Technology life cycles
-A common pattern of a wave change of supply demand
+A common pattern of a wave change of supply demand (Expansion->Boom->Recession->Depression)
+Each wave irreversibly changes the society on a global scale (PRDE: P:prosperity R:recession D:depression E:improvement)
+The latest wave is Cloud Technology
 
 <Burning Platform>
 Burning platform is a term used WHEN A COMPANY ABANDONS OLD TECHNOLOGY FOR NEW TECHNOLOGY
