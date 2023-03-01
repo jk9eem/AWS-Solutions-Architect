@@ -122,3 +122,9 @@ Elasticity
 *Cloud Architecture - Missing: Fault Tolerance, Disaster Recovery
 
 <The Six Advantage of Cloud>
+1. Trade capital expense for variable expense
+2. Benefit from massive economies of scale
+3. Stop guessing capacity
+4. Increase speed and agility
+5. Stop spending money on running and maintaining data centers
+6. Go global in minutes
