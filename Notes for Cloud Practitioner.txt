@@ -90,9 +90,9 @@ Click IAM -> Add MFA -> Activate MFA -> If you have a little physical key, choos
 <Innovation Waves>
 Kondratiev waves(Innovation waves) are hypothesized cycle-like phenomena in the global world economy
 The phenomenon is closely connected with Technology life cycles
-A common pattern of a wave change of supply demand (Expansion->Boom->Recession->Depression)
 Each wave irreversibly changes the society on a global scale (PRDE: P:prosperity R:recession D:depression E:improvement)
 The latest wave is Cloud Technology
+A common pattern of a wave change of supply demand (Expansion->Boom->Recession->Depression)
 
 <Burning Platform>
 Burning platform is a term used WHEN A COMPANY ABANDONS OLD TECHNOLOGY FOR NEW TECHNOLOGY
@@ -113,20 +113,36 @@ Then the screen shows all the available services that AWS Bracket offers
 * It's NOT FREE! (Some of them are free for 12 months)
 
 <The Benefits of Cloud>
-Agility: increase speed and agility
-Pay-as-you go pricing: Trade capital expense for variable expense
-Economy of scale: Benefit from masssive economies of scale
-Global Reach: Go global in minutes
+1-6: Traditional Advantage, rest of them: new addition
+1. Agility: increase speed and agility
+2. Pay-as-you go pricing: Trade capital expense for variable expense
+3. Economy of scale: Benefit from masssive economies of scale
+4. Global Reach: Go global in minutes
 Security
-Reliablity: Stop spending money on running and maintaining data centers
+5. Reliablity: Stop spending money on running and maintaining data centers
+High Availability
+6. Scalability: Benefit from massive economies of scale
 Elasticity
 
 *Cloud Architecture - Missing: Fault Tolerance, Disaster Recovery
 
 <The Six Advantage of Cloud>
 1. Trade capital expense for variable expense
+    : You can 'PAY ON DEMAND' meaning there is no upfront-cost and you pay only what you consume or pay by the hour, minutes or seconds
+      Instead of paying for upfront costs of data centers and servers
 2. Benefit from massive economies of scale
+    : You are 'SHARING THE COST WITH OTHER CUSTOMERS' to get unbeatable savings
+      Hundreds of thousands of customers utilizing a fraction of a server
 3. Stop guessing capacity
+    : 'SCALE UP AND DOWN' to meet the current need. Launch and destroy services whenever
+      Instead of paying for idle or underutilized servers
 4. Increase speed and agility
+    : 'LAUNCH RESOURCES WITHIN A FEW CLICKS IN MUNITES'
+      Instead of waiting days or weeks of your IT to implement the solution on-premise
 5. Stop spending money on running and maintaining data centers
+    : 'FOCUS ON YOUR OWN CUSTOMERS', developing and configuring your applications
+      Instead of operations such as of racking, stacking, and powering servers
 6. Go global in minutes
+    : 'DEPLOY YOUR APP IN MULTIPLE REGIONS AROUND THE WORLD WITH A FEW CLICKS'
+      Provide lower latency and a better experience for your customers at minimal cost
+
