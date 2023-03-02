@@ -146,3 +146,28 @@ Elasticity
     : 'DEPLOY YOUR APP IN MULTIPLE REGIONS AROUND THE WORLD WITH A FEW CLICKS'
       Provide lower latency and a better experience for your customers at minimal cost
 
+<Seven Advantages to Cloud>
+Andrew Brown's own defined Advantages
+1. Cost effective
+2. Global
+3. Secure
+4. Reliable
+5. Scalable
+6. Elastic
+7. Current
+
+<AWS Global Infrastructure Overview>
+'GLOBALLY DISTRIBUTED HARDWARE AND DATACENTERS' that are 'PHYSICALLY NETWORKED TOGETHER' to act as one large resource for the end customer
+AWS Global Infrastructure is made up of the following resources:
+1. 25 Launched Regions
+2. 81 Availability Zones
+3. 108 Direct Connection Locations
+4. 275+ Points of Presence
+5. 11 Local Zone
+6. 17 Wavelength Zones
+
+<AWS Golbal Infrastructure - Regions>
+'GEOGRAPHICALLY DISTINCT LOCATIONS' consisting of one or more Availability Zones
+Every region is 'PHYSICALLY ISOLATED' from and independent of every other region in terms of 'LOCATION, POWER, WATER SUPPLY'
+* Most important region: AWS First Region 2006, US-EAST1(Northern Virginia)
+
