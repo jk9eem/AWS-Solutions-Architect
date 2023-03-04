@@ -171,3 +171,25 @@ AWS Global Infrastructure is made up of the following resources:
 Every region is 'PHYSICALLY ISOLATED' from and independent of every other region in terms of 'LOCATION, POWER, WATER SUPPLY'
 * Most important region: AWS First Region 2006, US-EAST1(Northern Virginia)
 
+each region generally has 3 Avaiable zones
+New services almost always become availalbe first in 'US-EAST'
+Not all AWS Services are avaiable in all Regions
+
+When you choose a region there are 4 factors you need to consider:
+1. What Regulatory Compliance does this region meet?
+2. What is the cost of AWS services in this region?
+3. What AWS services are available in this region?
+4. What is the distance or latency to my end-users?
+
+<Regions vs Global Services>
+Regional Services: AWS 'SCOPES' their AWS Management Console on a selected Region (on the top of the right corner)
+                   This will determine 'WHERE' an AWS service will be launched and what will be seen within an AWS service's console
+                   You generally don't explicitly set the region for a service at the time of creation
+Global Services: Some AWS Services operate across multiple regions and the region will be fixed to 'Global'
+                 ex) Amazon S3, Cloud Front, Route53, IAM
+For these global services at the time of creation:
+1. There is no concept of region -> ex) IAM user
+2. A single region must be explicitly chosen -> ex) S3 Bucket
+3. A group of regions are chosen -> ex) CloudFront Distribution
+
+<Availability Zone(AZs)>
