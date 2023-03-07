@@ -202,3 +202,7 @@ But they will be close enough to provide low latency(<10ms)
 
 Its common practice to run workloads in at least 3AZs to ensure services remain available in case one or two datacenters fail(high Availability)
 AZs are represented by a Region Code, followed by a letter identifier ex)us-east-1a
+
+A Subnet is associated with an Availability Zone
+You never choose the AZ when launching resources. You choose the Subnet which is associated to the AZ
+The US-EAST-1 region has 6AZs(the most Availability Zone of any region)
