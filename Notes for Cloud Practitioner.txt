@@ -216,3 +216,13 @@ All traffic between AZs is encrypted
 AZs are within 100km (60miles) of each other
 
 <Selecting Regions and AZs Following Along>
+Witin AWS, select region(top right corner)->select regional service(eg.EC2) in the search on the top->go to instances->select Amazon Linux2->next->
+select 'Subnet' which associated to a Availability Zone(eg.US-EAST1 has 6 of them>>us-east1-1a,us-east1-1b...us-east1-1f)
+
+search global service eg.S3 on the top->create bucket->under AWS region, select region but we don't choose Availability Zone because AWS runs these in multiple AZs
+
+search cloud service eg.cloudfront->create distribution->under settings, price class, choose which one you want, all locations or only NA and EU or NA and EU and ASIA and AF and ME
+
+IAM->Access Management->User Groups->Create user group-> actually there is no region for IAM
+
+<Fault Tolerance>
