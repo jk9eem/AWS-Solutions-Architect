@@ -206,3 +206,13 @@ AZs are represented by a Region Code, followed by a letter identifier ex)us-east
 A Subnet is associated with an Availability Zone
 You never choose the AZ when launching resources. You choose the Subnet which is associated to the AZ
 The US-EAST-1 region has 6AZs(the most Availability Zone of any region)
+
+<Regions and AZ Vizualized>
+A region has multiple Availability zones
+An Availability Zone is made up of 'ONE OR MORE' datacenters
+All AZs in an AWS Region are interconnected with high-bandwith, low-latency networking, over fully redundant, dedicated metro fiber
+providing high-throughput, low-latency networking between
+All traffic between AZs is encrypted
+AZs are within 100km (60miles) of each other
+
+<Selecting Regions and AZs Following Along>
