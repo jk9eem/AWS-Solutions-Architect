@@ -226,3 +226,17 @@ search cloud service eg.cloudfront->create distribution->under settings, price c
 IAM->Access Management->User Groups->Create user group-> actually there is no region for IAM
 
 <Fault Tolerance>
+Fault Domain: a section of a network that is vulnerable to damage if a critical device or system fails. 
+The purpose of a fault domain is that if a failure occurs 'IT WILL NOT CASCADE OUTSIDE THAT DOMAIN', limiting the damage possible
+
+You can have fault domains nested inside fault domains
+
+Fault Level: a collection of fault domains
+
+The scope of a fault domain could be: specific servers in a rack
+                                      an entire rack in a datacenter
+                                      an entire room in a datacenter
+                                      the entire data center building
+Its up to the Cloud Service Provider(CSPs) to define the bounderies of a domain
+an AWS Region would be a FAULT LEVEL
+a Availability Zone would be a FAULT DOMAIN
