@@ -257,3 +257,8 @@ Availability Zones are all redundantly connected to multiple tier-1 transit prov
 Multi AZs for high Availability
 If an application is partitions across AZs, companies are better isolated and protected from issues such as
 POWER OUTAGES, LIGHTNENG STRIKES, TONADOES, EARTHQUAKES, and more
+
+<AWS Global Network>
+AWS Global Network represent the 'INTERCONNECTIONS BETWEEN AWS GLOBAL INFRASTRUCTURE'
+Commonly referred to as the 'The Backbone of AWS'
+Edge Locations can act as 'ON AND OFF RAMPS' to the AWS Global Network
