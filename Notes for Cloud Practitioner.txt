@@ -269,3 +269,11 @@ Edge Locations can act as 'ON AND OFF RAMPS' to the AWS Global Network
 VPC Endpoint - Ensuring your resources stay within the AWS Network and do no traverse over the public internet
 
 <Points of Presence(PoP)>
+An intermediate location between an AWS Regions and the end user, and this location could be a datacenter or collection of hardware
+For AWS a Point of Presence is a data center 'OWNED BY AWS OR A TRUSTED PARTNER' that is utilized by AWS Services related 'FOR CONTENT DELIVERY OR EXPEDIATED UPLOAD'
+Pop resources are: Edge Locations, Regional Edge Caches
+
+EDGE LOCATIONS are datacenters that hold cached(copy) on the most popular files (eg.web pages, images and videos) so that the delivery of distance to the end users are reduce
+REGIONAL EDGE LOCATIONS are datacenters that hold much larger caches of less popular files to reduce a full round trip and also to reduce the cost of transfer fees
+
+<Tier 1>
