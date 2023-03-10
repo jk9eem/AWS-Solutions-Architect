@@ -261,4 +261,11 @@ POWER OUTAGES, LIGHTNENG STRIKES, TONADOES, EARTHQUAKES, and more
 <AWS Global Network>
 AWS Global Network represent the 'INTERCONNECTIONS BETWEEN AWS GLOBAL INFRASTRUCTURE'
 Commonly referred to as the 'The Backbone of AWS'
+
 Edge Locations can act as 'ON AND OFF RAMPS' to the AWS Global Network
+(On Ramp) AWS Global Accelerator/AWS S3 Transfer Acceleration - Uses Edge Locations as an on-ramp to quickly reach AWS resources in other regions 
+                                                                by traversing the fast AWS Global Network
+(Off Ramp) Amazon CloudFront(CDN) - Uses Edge Locations as an off-ramp to provide at the edge storage and compute near the end user
+VPC Endpoint - Ensuring your resources stay within the AWS Network and do no traverse over the public internet
+
+<Points of Presence(PoP)>
