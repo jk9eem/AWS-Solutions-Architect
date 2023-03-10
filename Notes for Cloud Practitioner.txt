@@ -240,3 +240,20 @@ The scope of a fault domain could be: specific servers in a rack
 Its up to the Cloud Service Provider(CSPs) to define the bounderies of a domain
 an AWS Region would be a FAULT LEVEL
 a Availability Zone would be a FAULT DOMAIN
+
+Each Amazon Region is designed to be completely 'ISOLATED' from the other Amazon Region
+- this acheives the greatest possible fault tolerance and stability
+Each Availability Zone is ISOLATED, but the Availability Zones in a Region are connected through low-latency
+Each Availability Zone is designed as an 'INDEPENDENT FAILURE ZONE'
+-'failure zone' is AWS describing a Fault Domain
+
+Failure Zone
+Availability Zones are physically seperated within a typical metropolitan region and are located in lower risk flood plains
+Discrete uninterruptible power supply (UPS) and onsite backup generation facilities
+Data centers located in different Availability Zones are designed to be supplied by independent substations to reduce the risk of an event on the power grid
+impacting more than one Availability Zone
+Availability Zones are all redundantly connected to multiple tier-1 transit provider
+
+Multi AZs for high Availability
+If an application is partitions across AZs, companies are better isolated and protected from issues such as
+POWER OUTAGES, LIGHTNENG STRIKES, TONADOES, EARTHQUAKES, and more
