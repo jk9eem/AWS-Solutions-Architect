@@ -280,3 +280,17 @@ REGIONAL EDGE LOCATIONS are datacenters that hold much larger caches of less pop
 *Pops live at the edge/INTERSECTION of two networks
 Tier 1 network: a network that can reach every other network on the internet WITHOUT PURCHEASING IP TRANSIT OR PATYING FOR PEERING
 AWS Availability Zones are all redundantly connected to multiple TIER 1 TRANSIT providers
+
+<AWS Services using PoPs>
+The following AWS Services use PoPs FOR CONTENT DELIVERY OR EXPEDIATED UPLOAD
+
+Amazon CloudFront is a CONTENT DELIVERY NETWORK(CDN) SERVICE that:
+1. You point your website to cloudfront so that it will route requests to nearest Edge Location cache
+2. allows you to choose an ORIGIN (such as a web server or storage) that will be source of cached
+3. caches the contents of what origin would returned to various Edge Locations around the world
+
+Amazon S3 Transfer Acceleration allows you to generate a special URL that can be used by end users to upload files to a nearby Edge Location.
+Once a file is uploaded to an Edge Location, it can move much faster within the AWS Network to reach S3
+
+AWS Global Accelerator can find the optimal path from the end user to your web servers. Global Accelerator are deployed within Edge Locations
+so you send user traffic to an Edge Location instead of directly to your web application
