@@ -277,3 +277,6 @@ EDGE LOCATIONS are datacenters that hold cached(copy) on the most popular files 
 REGIONAL EDGE LOCATIONS are datacenters that hold much larger caches of less popular files to reduce a full round trip and also to reduce the cost of transfer fees
 
 <Tier 1>
+*Pops live at the edge/INTERSECTION of two networks
+Tier 1 network: a network that can reach every other network on the internet WITHOUT PURCHEASING IP TRANSIT OR PATYING FOR PEERING
+AWS Availability Zones are all redundantly connected to multiple TIER 1 TRANSIT providers
