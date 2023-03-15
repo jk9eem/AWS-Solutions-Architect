@@ -294,3 +294,16 @@ Once a file is uploaded to an Edge Location, it can move much faster within the 
 
 AWS Global Accelerator can find the optimal path from the end user to your web servers. Global Accelerator are deployed within Edge Locations
 so you send user traffic to an Edge Location instead of directly to your web application
+
+<AWS Direct Connect>
+AWS Direct Connect: a PRIVATE/DEDICATED CONNECTION BETWEEN DATACENTER, OFFICE, CO-LOCATION AND AWS
+Direct Connect has tWO VERY FAST NETWORK connection options:
+1. Lower Bandwidth: 50MBps - 500MBps
+2. Higher Bandwidth: 1GBps or 10GBps
+Helps REDUCE NETWORK COSTS and INCREASE BANDWIDTH THROUGHPUT(great for high traffic networks)
+Provides a MORE CONSISTENT NETWORK EXPERIENCE than a typical internet based connection(reliable and secure)
+
+A co-location (aka carrier-hotel) is a datacenter where equipment, space, and bandwith are available for rental to retail customers
+
+<Direct Connection Locations>
+Direct Connection Locations: 'TRUSTED PARTNERED DATACENTERS' that you can establish A DEDICATED HIGH SPEED, LOW LATENCY CONNECTION FROM YOUR ON-PREMISE TO AWS
