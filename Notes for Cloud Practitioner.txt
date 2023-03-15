@@ -318,3 +318,9 @@ The purpose of Local Zone is the support highly demanding applications that sens
 Media & Entertainment, Electonic Design Automation, Ad-Tech, Machine Learning
 
 <Wavelength Zones>
+AWS Wavelength Zones: allows for EDGE-COMPUTING ON 5G NETWORKS
+Applications will have 'ULTRA LOW-LATENCY' being as close as possible to the users
+AWS has partnered with various Telecome comapnies to utilize their 5G networks(Verizon, SK Telecom)
+You Create the Subnet tied to a Wavelength Zone and then you can launch Virtual Machine(VM) to the edge of the targeted 5G networks
+(EC2, need low latency -> with those Wavelength Zones -> super low latency)
+
