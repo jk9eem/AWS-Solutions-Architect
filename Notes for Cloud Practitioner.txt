@@ -307,3 +307,14 @@ A co-location (aka carrier-hotel) is a datacenter where equipment, space, and ba
 
 <Direct Connection Locations>
 Direct Connection Locations: 'TRUSTED PARTNERED DATACENTERS' that you can establish A DEDICATED HIGH SPEED, LOW LATENCY CONNECTION FROM YOUR ON-PREMISE TO AWS
+You would use the AWS DIRECT CONNECT service to order and establish a connection
+
+<AWS Local Zones>
+Local Zones: datacenters located very close to a densely populated area to provide single digit millisecond low latency performance (eg 7ms) for that area
+Los Angeles, CA was the first local zone to be deployed
+- It is a logical extension of the US-West-Region (we-west-2-lax-1a)
+- Only specific AWS services have been made available(EC2 Instant Types, EBS, Amazon FSx, Application Load Balancer, Amazon VPC)
+The purpose of Local Zone is the support highly demanding applications that sensitive latencies:
+Media & Entertainment, Electonic Design Automation, Ad-Tech, Machine Learning
+
+<Wavelength Zones>
