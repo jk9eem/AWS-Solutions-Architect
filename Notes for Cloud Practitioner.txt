@@ -340,3 +340,8 @@ In order to prevent all together..
 IAM POLICIES can be written explicitly deny access to specific AWS regions. A Service Control Policy(SCP) are permissions appliced Organization wide
 
 <AWS for Government>
+Public Sector: include public goods and governmental services such as: military, law enforcement...
+AWS acheives this by meeting 'REGULATORY COMPLIANCE PROGRAMS' along with specific governmence and security controls
+AWS has special regions for US regulation called 'GovCloud'
+
+<GovCloud>
