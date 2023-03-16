@@ -345,3 +345,8 @@ AWS acheives this by meeting 'REGULATORY COMPLIANCE PROGRAMS' along with specifi
 AWS has special regions for US regulation called 'GovCloud'
 
 <GovCloud>
+GovCloud: A Cloud Service Provider(CSP) generally will offer an 'ISOLATED REGION' to run FedRAMP workloads
+AWS GovCloud Regions allow customers to host sensitive CONTROLED UNCLASSIFIED INFORMATION and other type of regulated workloads
+They are ONLY accessible to US entities and root account holders who pass a screening Processor
+
+<Sustainability>
