@@ -350,3 +350,21 @@ AWS GovCloud Regions allow customers to host sensitive CONTROLED UNCLASSIFIED IN
 They are ONLY accessible to US entities and root account holders who pass a screening Processor
 
 <Sustainability>
+AWS Cloud's Sustainability Goals:
+1. Renewable Energy - 100% renewable energy by 2025
+2. Cloud Efficiency - 3.6X more efficient than median
+3. Water Stewardship - cooling and effiectively reuse water
+
+<AWS Ground Station>
+Let you control satellite communications
+To use it: schedule a contact. Use the AWS Ground Station EC2 AMI -> with EC2 instance, download/upload data in an S3 bucket
+
+<AWS Outposts>
+Rack of servers running AWS Infrastructure on your physical location
+3 Form Factors:
+42U - full rack of servers
+can place into the existing rack
+1U - 19W/24D/AWS Graviton 2(upto 64v CPU)
+2U - 19W/36D/Intel Processor(upto 128v CPU)
+
+<Cloud Architecture Terminologies>
